@@ -75,4 +75,5 @@ RegisterNumber:**212223220012**
  ![image](https://github.com/Bakkiyalakshmiethiraj/SR-FLIPFLOP-USING-CASE/assets/144870983/876f4f37-2074-4fdf-a393-7ba7f406943d)
 
 **RESULTS**
+
 Thus the program to implement a SR flipflop using verilog and validating their functionality using their functional tables is successfully completed.
